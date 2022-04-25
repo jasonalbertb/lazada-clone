@@ -4,22 +4,22 @@
 # Functionalities
 - Add to cart (Done)
 - Browse for products (Done)
-- Browse for stores
-- Sort & Filter by product & store field values (Dashboard)
-- Sort & Filter Filter by product categories (Product Page);
-- Search by product name
+- Browse for stores (Done)
+- Sort & Filter by product & store field values (Dashboard) (Done)
+- Sort & Filter Filter by product categories (Product Page) (Done)
+
+# Others
+- Page for seeding api for populating the database located @ /seed (Done)
 
 # TODO List
-- Make it responsive, (mobile first approach)
+- Search by product name (Using Algolia)
+- Make it responsive
 - Add backend rules in firebase
 - Add API for Store Accounts
 - Add cloud functions for flash product sales,
 - Complete the vouchers
-- Computations for kilometers shipping fee using google maps
+- Computations for kilometers shipping fee using firebase extension
 - etc
-
-# Others
-- Page for seeding api for populating the database located at /seed
 
 # process env
 - REACT_APP_apiKey
@@ -27,7 +27,7 @@
 - REACT_APP_projectId
 - REACT_APP_storageBucket
 - REACT_APP_messagingSenderId
-- REACT_APP_appId\
+- REACT_APP_appId
 
 # Firebase rules 
 - TDB
