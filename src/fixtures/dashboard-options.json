@@ -1,0 +1,52 @@
+[
+    {
+        "title" : "Load, Bills & eCoupon",
+        "img" : "https://lzd-img-global.slatic.net/g/icms/images/ims-web/1d9b88e1-17a9-46cd-bd45-ba6dcbc2f9f6.png",
+        "link" : "/"
+    },
+    {
+        "title": "Deals for You",
+        "img" : "https://lzd-img-global.slatic.net/g/icms/images/ims-web/c463a157-2024-4ff6-b1cc-8765e93f2fbc.png",
+        "link": "/"
+    },
+    {
+        "title" : "Vouchers",
+        "img" : "https://lzd-img-global.slatic.net/g/icms/images/ims-web/fc1a9308-6670-4af3-bcef-2acf0fdb0699.png",
+        "link" : "/"
+    }, 
+    {
+        "title" : "Lowest Price",
+        "img": "https://lzd-img-global.slatic.net/g/icms/images/ims-web/0e4c3a79-6372-4e33-a8be-f5d2127b5a84.png",
+        "link" : "/"
+    }, 
+    {
+        "title" : "Categories",
+        "img" : "https://lzd-img-global.slatic.net/g/icms/images/ims-web/165493cb-772b-4829-a8ed-6e9e793c74fb.png",
+        "link": "/"
+    },
+    {
+        "title" : "LazMall",
+        "img" : "https://lzd-img-global.slatic.net/g/icms/images/ims-web/73465b62-e528-4c84-8ee3-d61a7e642667.png",
+        "link" : "/"
+    },
+    {
+        "title" : "Daily Free Shipping",
+        "img" : "https://lzd-img-global.slatic.net/g/icms/images/ims-web/0118b383-38bf-4734-975c-7383aa1dafc2.png",
+        "link" : "/"
+    },
+    {
+        "title" : "Lazada Gift Cards",
+        "img" : "https://lzd-img-global.slatic.net/g/icms/images/ims-web/8551d327-8419-4000-a480-0778b25cccf0.png",
+        "link" : "/"
+    },
+    {
+        "title" : "LazGlobal",
+        "img" : "https://lzd-img-global.slatic.net/g/icms/images/ims-web/4e531ae0-982e-419b-b29f-ed11c9c1005c.png",
+        "link" : "/"
+    },
+    {
+        "title" : "Lazada Millionaire",
+        "img" : "https://lzd-img-global.slatic.net/g/icms/images/ims-web/f7f7158b-fa7e-40d7-892b-7ff26a8467be.png",
+        "link" : "/"
+    }
+]

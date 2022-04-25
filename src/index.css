@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.floatingInput input:focus-within ~ label,
+.floatingInput input:not(:placeholder-shown) ~ label{
+    @apply transform scale-75 translate-y-[-20px]
+}
+
+.floatingInput input:focus-within{
+    @apply border-b-2 border-cyan-700
+}
+
+.hide-scroll::-webkit-scrollbar {
+    @apply hidden
+}

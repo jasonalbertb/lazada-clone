@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Best Match",
+        "sortBy": "none"
+    }, 
+    {
+        "title": "Price low to high",
+        "sortBy": "asc"
+    },
+    {
+        "title" : "Price high to low",
+        "sortBy": "desc"
+    }
+]

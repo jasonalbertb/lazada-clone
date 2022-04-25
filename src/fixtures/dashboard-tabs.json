@@ -1,0 +1,27 @@
+[
+    {
+        "title" : "All",
+        "filter" : "all",
+        "img" : "https://lzd-img-global.slatic.net/g/tps/tfs/TB1jMnkVpY7gK0jSZKzXXaikpXa-90-66.png_120x120q80.jpg_.webp"
+    },
+    {
+        "title": "Lowest Price",
+        "filter" : "price",
+        "img" : "https://lzd-img-global.slatic.net/g/tps/imgextra/i1/O1CN01BScM7s1xyXqBEEJY5_!!6000000006512-2-tps-90-66.png_120x120q80.jpg_.webp"
+    },
+    {
+        "title" : "Free Shipping",
+        "filter" : "free-shipping",
+        "img" : "https://lzd-img-global.slatic.net/g/tps/imgextra/i2/O1CN01WcegVj24j9rLnF5Pe_!!6000000007426-2-tps-90-66.png_120x120q80.jpg_.webp"
+    },
+    {
+        "title": "Lazmall",
+        "filter" : "lazmall",
+        "img" : "https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01YAE1bz1H7DtMalolH_!!6000000000710-2-tps-90-66.png_120x120q80.jpg_.webp"
+    }, 
+    {
+        "title" : "LazGlobal",
+        "filter" : "lazglobal",
+        "img" : "https://lzd-img-global.slatic.net/g/tps/imgextra/i4/O1CN01jxlKWQ1SD8ku0d6BY_!!6000000002212-2-tps-90-66.png_120x120q80.jpg_.webp"
+    }
+]
