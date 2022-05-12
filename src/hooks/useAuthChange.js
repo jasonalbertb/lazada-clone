@@ -13,6 +13,7 @@ export const useAuthChange = () => {
             if (isFirebaseInitialized) {
                 const auth = getAuth();
                 const unsub = onAuthStateChanged(auth, (user) => {
+                    dispatch(setAppIsLoading(true));
                     if (user) {
                         (async()=>{
                             if (!user.displayName) {
@@ -29,8 +30,9 @@ export const useAuthChange = () => {
                     } else {
                         dispatch(logout());
                     }
+                    dispatch(setAppIsLoading(false));
                 });
-                dispatch(setAppIsLoading(false));
+                
                 return ()=>{
                     unsub && unsub();
                 }
